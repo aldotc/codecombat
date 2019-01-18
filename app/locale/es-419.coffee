@@ -24,7 +24,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     democratizing: "Democratizar el proceso de aprender a programar es la esencia de nuestra filosofía. Todos deberían poder aprender a programar"
     forgot_learning: "Creo que ellos en realidad olvidaron de que estaban aprendiendo algo." # {change}
     wanted_to_do: "Programar es algo que siempre quise hacer, y que nunca pensé que sería capaz de aprenderlo en la escuela ."
-#    builds_concepts_up: "I like how CodeCombat builds the concepts up. It's really easy to understand and fun to figure it out."
+     builds_concepts_up: "Me gusta cómo CodeCombat construye los conceptos. Es muy fácil de entender y es divertido resolverlo".
     why_games: "¿Por qué el aprendizaje mediante juegos es importante?"
     games_reward: "Los juegos recompensan el esfuerzo productivo."
     encourage: "El juego es un medio que incentiva la interacción, el descubrimiento, y la prueba-error. Un buen juego desafía al jugador a dominar habilidades con el paso del tiempo, que es un proceso crítico similar al que los estudiantes atraviesan mientran aprenden"
@@ -57,7 +57,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     boast: "Cuenta con acertijos lo suficiente complejos como para fascinar a jugadores y programadores por igual."
     winning: "Una combinación ganadora entre un juego de rol y una tarea sobre programación que consigue hacer de la educación amigable y disfrutable para los niños."
     run_class: "Todo lo que necesitas para organizar una clase de informática en tu escuela hoy mismo, sin necesidad de ningún conocimiento previo de informática."
-    goto_classes: "Ir a mis clases" # {change}
+    goto_classes: "Ir a mis clases" {cambiar}
     view_profile: "Ver mi perfíl"
     view_progress: "Ver mi progreso"
     go_to_courses: "Ir a mis cursos"
@@ -65,7 +65,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
 
   nav:
     map: "Mapa"
-    play: "Jugar" # The top nav bar entry where players choose which levels to play
+    play: "Jugar" # La entrada de la barra de navegación superior donde los jugadores eligen qué niveles jugar
     community: "Comunidad"
     courses: "Cursos"
     blog: "Blog"
@@ -99,8 +99,8 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     help_pref: "¿Necesitas ayuda? Envianos un correó electronico!"
     help_suff: "y te contactaremos pronto"
     resource_hub: "Centro de recursos"
-#    apcsp: "AP CS Principles"
-#    parent: "Parents"
+   apcsp: "AP CS principales"
+   parent: "padres"
 
   modal:
     close: "Cerrar"
@@ -110,7 +110,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     page_not_found: "Página no encontrada"
 
   diplomat_suggestion:
-    title: "¡Ayuda a traducir CodeCombat!" # This shows up when a player switches to a non-English language using the language selector.
+    title: "¡Ayuda a traducir CodeCombat!" # Esto se muestra cuando un jugador cambia a un idioma diferente al inglés usando el selector de idioma.
     sub_heading: "Necesitamos tus habilidades de idioma."
     pitch_body: "Desarrollamos CodeCombat en inglés, pero ya tenemos jugadores de todo el mundo. Muchos de ellos quieren jugar en español pero no hablan inglés, así que si puedes hablar ambos, por favor considera registrarte pare ser un Diplomático y ayudar a traducir tanto el sitio de CodeCombat como todos los niveles al español."
     missing_translations: "Hasta que podamos traducir todo al español, verás inglés cuando el español no esté disponible."
@@ -118,17 +118,17 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     subscribe_as_diplomat: "Suscríbete como un Diplomático"
 
   play:
-#    anon_signup_title_1: "CodeCombat has a"
-#    anon_signup_title_2: "Classroom Version!"
-#    anon_signup_enter_code: "Enter Class Code:"
-#    anon_signup_ask_teacher: "Don't have one? Ask your teacher!"
-#    anon_signup_create_class: "Want to create a class?"
-#    anon_signup_setup_class: "Set up a class, add your students, and monitor progress!"
-#    anon_signup_create_teacher: "Create free teacher account"
+    anon_signup_title_1: "CodeCombat tiene un(a)"
+    anon_signup_title_2: "version de aula de clases!"
+    anon_signup_enter_code: "Digita el codigo de tu clase:"
+    anon_signup_ask_teacher: "¿no posées una? Preguntale a tu profesor!"
+    anon_signup_create_class: "¿quieres crear una clase?"
+    anon_signup_setup_class: "instala una clase, agregale tus estudiantes, y un monitor de progreso!"
+    anon_signup_create_teacher: "Crear cuenta de profesor gratis"
     play_as: "Jugar Como " # Ladder page
-#    get_course_for_class: "Assign Game Development and more to your classes!"
-#    request_licenses: "Contact our school specialists for details."
-    compete: "¡Competir!" # Course details page
+    get_course_for_class: "Asigna juego a resolver y más a tus clases!"
+    request_licenses: "Póngase en contacto con nuestros especialistas escolares para más informacion."
+    compete: "¡Competir!" # Página de detalles del curso
     spectate: "Observar" # Ladder page
     players: "Jugadores" # Hover over a level on /play
     hours_played: "horas jugadas" # Hover over a level on /play
